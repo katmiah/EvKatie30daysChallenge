@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   background-image: url(https://www.musicca.com/files/scripts/drums/static/media/drum-kit-standard.eb6cdcf0e2d2b6c360fb.png);
 }
@@ -16,4 +17,8 @@ body{
   width: 50px;
   color: blue;
 
+=======
+h1{
+  color: red;
+>>>>>>> 89be78a3baa383a9717fcaef26539d24613bc5f6
 }
